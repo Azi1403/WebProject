@@ -409,3 +409,12 @@ branch 'master' set up to track 'WebProject/master'.
 
 **5-5: in Github desktop --choose file--clone repository i choose my project and then in this environment i change index.html and add footer then commit push it to Github
 in Github i use pull and merge automatically changes add and deleted new branch**
+
+C:\Users\Elin>git clone https://github.com/Azi1403/WebProject.git
+Cloning into 'WebProject'...
+remote: Enumerating objects: 34, done.
+remote: Counting objects: 100% (34/34), done.
+remote: Compressing objects: 100% (27/27), done.
+remote: Total 34 (delta 11), reused 22 (delta 7), pack-reused 0 (from 0)
+Receiving objects: 100% (34/34), 9.36 KiB | 103.00 KiB/s, done.
+Resolving deltas: 100% (11/11), done.
