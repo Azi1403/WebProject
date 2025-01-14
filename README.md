@@ -4,6 +4,7 @@ I define a project and issue in Github then adding footer in index.html and then
 
 **in Github desktop --choose file--clone repository i choose my project and then in this environment i change index.html and add footer then commit push it to Github
 in Github i use pull and merge automatically changes add and deleted new branch**
+**for syncronize our project from Githun to my desktop Github we can use clone repository from file menu in github desktop software and we can push or pull mor easily**
 **all details and command is in this file you can follow it:**
 
 **Part1: 
